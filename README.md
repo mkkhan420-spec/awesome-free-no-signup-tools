@@ -69,3 +69,4 @@ Entries marked ⭐ are our own tools (Alternative Kits). The rest are independen
 - [Is It Down Right Now](https://www.isitdownrightnow.com/) - Checks whether a website is down for everyone or just for you.
 - [TinyURL](https://tinyurl.com/) - Shortens long URLs into short links, with branded links and analytics.
 - [Wayback Machine](https://web.archive.org/) - Archives web pages and lets you browse old versions of them for free.
+- [StagePeek](https://stagepeek.live/) - Previews 2D seating charts and 3D concert stage sightlines across 201 global venues with 1x-10x zoom and no login required.
